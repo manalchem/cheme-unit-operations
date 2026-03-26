@@ -141,4 +141,4 @@ Built as part of a chemical engineering portfolio while completing prerequisite 
 ## Author
 
 **Manal**
-Chemical Engineering Student | Northern Virginia Community College
+Chemical Engineering Student | 
