@@ -140,5 +140,6 @@ Built as part of a chemical engineering portfolio while completing prerequisite 
 
 ## Author
 
+
 **Manal**
-Chemical Engineering Student | 
+| Chemical Engineering Student | github.com/manalchem
